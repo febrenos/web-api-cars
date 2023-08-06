@@ -106,3 +106,16 @@ creating web api in java spring boot maven with vs code
 
 
 </details>
+
+<details>
+<summary>Errors solutions</summary>
+
+#### Kill task port
+- netstat -ano | findstr :8080
+- taskkill /F /PID <PID>
+
+#### Syntax code
+- verify packeges
+- caution with reserved words
+
+</details>
