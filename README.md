@@ -112,7 +112,7 @@ creating web api in java spring boot maven with vs code
 
 #### Kill task port
 - netstat -ano | findstr :8080
-- taskkill /F /PID <PID>
+- taskkill /F /PID PIDNUMBER
 
 #### Syntax code
 - verify packeges
