@@ -8,6 +8,8 @@ creating web api in java spring boot maven with vs code
 
 <details>
 <summary>Create Maven project</summary>
+#### Install
+- [java jdk 17.0.7](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
 ## THIS
 
@@ -50,9 +52,6 @@ creating web api in java spring boot maven with vs code
 
 <details>
 <summary>Info</summary>
-
-#### Install
-- [java jdk 17.0.7](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
 #### VS code extensions
 - Extension pack for java
