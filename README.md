@@ -11,6 +11,9 @@ creating web api in java spring boot maven with vs code
   
 #### Install
 - [java jdk 17.0.7](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- [Maven 3.8.8](https://maven.apache.org/download.cgi)
+- [gradle 7.6.1 Binary only](https://maven.apache.org/download.cgi)
+- usar maven ou gradle (projeto desenvolvido em Maven)
 
 ## THIS
 
