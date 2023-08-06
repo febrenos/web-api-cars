@@ -63,6 +63,7 @@ creating web api in java spring boot maven with vs code
 | Template doc | [rest-template](https://www.baeldung.com/rest-template) |
 | Template doc | [rest-template](https://spring.io/blog/2009/03/27/rest-in-spring-3-resttemplate) |
 | External Api  | [Api Cars](https://deividfortuna.github.io/fipe/) |
+| Sequence diagram  | [whimsical](https://whimsical.com/) |
 
 </details>
 
