@@ -15,7 +15,7 @@ creating web api in java spring boot maven with vs code
 2. ctrl + shift + p > create a maven project
    - ctrl + shift + p
    - create a maven project
-   - 3-1-2
+   - 3.1.2
    - java
    - packege
    - webcars
