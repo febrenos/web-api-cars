@@ -1,5 +1,10 @@
 # web-api-cars
 
+<p style="display:flex;">
+  <img src="./img/architecture.png" width="200" title="hover text">
+   <img src="./img/visual.png" width="200" title="hover text">
+</p>
+
 creating web api in java spring boot maven with vs code
 
 <details>
